@@ -5,7 +5,7 @@
 I have learned the theory concepts and implemented the data structures in java
 
 Topics:-
-     
+      
      *Singly linked list
      *Doubly linked list
      *Circular linked list
@@ -20,3 +20,5 @@ Topics:-
      *Directed graph representation using adjacency matrix
      *UnDirected graph representation using adjacency matrix.
      *Weighted Directed graph representation using adjacency matrix.
+     *Binary Search
+     *Bubble Sorting
